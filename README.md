@@ -23,16 +23,19 @@ All data is stored in a MongoDB database.
 
 ---
 
-## 📁 Project Structure
+## 📂 Project Structure
 
-📦your-project-name/
-┣ 📂public/
-┃ ┗ 📄style.css
-┣ 📄index.js
-┣ 📄views/
-┃ ┗ 📄index.ejs
-┣ 📄.env
-┗ 📄README.md
+📦 your-project-name/  
+┣ 📂 public/  
+┃ ┗ 📄 style.css  
+┣ 📂 views/  
+┃ ┗ 📄 index.ejs  
+┣ 📂 assets/  
+┃ ┗ 🖼️ screenshot.png  
+┣ 📄 index.js  
+┣ 📄 .env  
+┗ 📄 README.md  
+
 
 ---
 
@@ -72,7 +75,7 @@ npm run dev
 
 ## 📸 UI Preview
 
-![App Screenshot](assets/Screenshot%20(233).png)
+![App Screenshot](assets/App%20Screenshot.png)
 
 ## ✍️ Author
 
